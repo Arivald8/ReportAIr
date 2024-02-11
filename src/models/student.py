@@ -5,6 +5,7 @@ class Student:
     # Main
     student_id: int = None
     name: str = None
+    year: int = None
     level: str = None
     participation: str = None
     punctuality: str = None
